@@ -7,6 +7,8 @@ This is a Flutter project managed using Flutter Version Management (FVM).
 
 - [Flutter](https://flutter.dev/docs/get-started/install)
 - [FVM](https://fvm.app/documentation/getting-started/installation)
+- Make sure backend services are running on your local sytem(https://github.com/dharmendramehta622/binmise-api.git)
+- Replace IP address with your local network IP address - see the [API Constant File](- Replace the IP address with your local network IP address(eg:192.168.1.98). See the [API Constant File](./packages/global/lib/domain/entity/api_constant.dart) for details.).
 
 ## Getting Started
 
@@ -15,8 +17,8 @@ Follow these steps to set up and run the project:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://your_username:your_password@github.com/Hamro-Kura-Kani/flutter_attendo.git
-cd flutter_attendo
+git clone https://github.com/dharmendramehta622/flutter_employeeapp.git
+cd flutter_employeeapp
 ```
 
 ### 2. Install FVM
